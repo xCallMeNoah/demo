@@ -1,4 +1,4 @@
-# TodoList
+# Noah's TodoList
 
 ## Wichtig!
 Konferenz nächste Woche vorbereiten
@@ -10,4 +10,3 @@ Freifahrtanträge bearbeiten
 Einkaufen für nächste Woche
 
 ## Nächste Woche erledigen
-Urlaubsplanung vorbereiten
